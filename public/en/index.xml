@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Charles Souza</title>
+    <link>/en/</link>
+      <atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
+    <description>Charles Souza</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Charles Souza</title>
+      <link>/en/</link>
+    </image>
+    
+    <item>
+      <title>teste1 POST</title>
+      <link>/en/post/2020-11-18-/</link>
+      <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/en/post/2020-11-18-/</guid>
+      <description>&lt;p&gt;cccccccccccccccccccc&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
